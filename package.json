@@ -60,8 +60,7 @@
     "benchmark": "matcha",
     "lint": "jshint q.js",
     "cover": "cover run jasmine-node spec && cover report html && opener cover_html/index.html",
-    "minify": "grunt",
-    "prepublish": "grunt"
+    "minify": "grunt"
   },
   "overlay": {
     "teleport": {
